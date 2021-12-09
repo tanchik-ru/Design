@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application_20</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello">hello</string>
+    <string name="my_fragments">my_fragments</string>
+    <string name="switch_fragment">switch fragment</string>
+    <string name="bye_bye">bye-bye</string>
+    <string name="fragment1">fragment1</string>
+    <string name="fragment2">fragment2</string>
+    <string name="google">google</string>
+    <string name="yandex">Yandex</string>
+    <string name="search">search</string>
+    <string name="fragment3">fragment3</string>
+    <string name="developers">developers:</string>
+    <string name="text">text</string>
+</resources>
